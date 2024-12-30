@@ -18,8 +18,11 @@ AIGI-VC database is a quality assessment database for AI-generated images in vis
 
 <h3 align="left">Citation</h3>
 <p>
-    If you're using AIGI-VC dataset in your research or applications, please cite using this BibTeX:
+@article{tian2024ai,
+  title={AI-generated Image Quality Assessment in Visual Communication},
+  author={Tian, Yu and Li, Yixuan and Chen, Baoliang and Zhu, Hanwei and Wang, Shiqi and Kwong, Sam},
+  journal={arXiv preprint arXiv:2412.15677},
+  year={2024}
+}
 </p>
-<pre><code>git clone https://github.com/your-repository.git
-cd your-repository
-git pull origin master</code></pre>
+
