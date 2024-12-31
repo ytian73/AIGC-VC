@@ -1,5 +1,5 @@
 <h1 align="left">AIGI-VC</h1>
-<h2 align="center">📄 <a href="https://arxiv.org/abs/2412.15677" target="_blank">[Paper]</a> · 🎨 <a href="https://portland-my.sharepoint.com/:f:/g/personal/ytian73-c_my_cityu_edu_hk/EiFPOf3vm6ROrUYubW6XCLABQ3SpZsAdKrG8_h64_82SNw?e=bdQzC0" target="_blank">[Dataset]</a> · 🍰 <a href="https://github.com/ytian73/AIGI-VC/doc/supp" target="_blank">[Supplementary Materials]</h2>
+<h2 align="center">📄 <a href="https://arxiv.org/abs/2412.15677" target="_blank">[Paper]</a> · 🎨 <a href="https://portland-my.sharepoint.com/:f:/g/personal/ytian73-c_my_cityu_edu_hk/EiFPOf3vm6ROrUYubW6XCLABQ3SpZsAdKrG8_h64_82SNw?e=bdQzC0" target="_blank">[Dataset]</a> · 🍰 <a href="https://github.com/ytian73/AIGI-VC/blob/main/doc/supp" target="_blank">[Supplementary Materials]</h2>
 <h3 align="left">AI-generated Image Quality Assessment in Visual Communication</h3>
 <p align="center">
     <img src="Figures/dataset-overview.jpeg" width="400px">
